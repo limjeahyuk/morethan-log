@@ -1,14 +1,13 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Lim Jeahyuk",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "Developer",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    email: "lim0202jh@gmail.com",
+    github: "limjeahyuk",
+    instagram: "lim0202jh_",
   },
   projects: [
     {
@@ -18,7 +17,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "lim-it",
+    title: "lim-it : 혁쨩의 개발 블로그",
     description: "welcome to lim-it!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
