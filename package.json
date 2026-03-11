@@ -32,6 +32,12 @@
     "react-icons": "^4.4.0",
     "react-notion-x": "^6.16.0"
   },
+  "overrides": {
+    "react-cusdis": {
+      "react": "$react",
+      "react-dom": "$react-dom"
+    }
+  },
   "devDependencies": {
     "@types/gtag.js": "^0.0.12",
     "@types/node": "^18.11.15",
